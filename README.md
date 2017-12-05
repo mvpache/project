@@ -30,3 +30,5 @@ Search Movie Page
 Movie Page
   Should be able to view details of movie and leave a review/grade
   Should be able to add to wish list
+  
+http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
