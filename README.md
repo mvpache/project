@@ -1,5 +1,7 @@
 # project
 
+store > reducers >containers > action creators
+
 Make a profile
   Sign up
   Sign in/sign out
