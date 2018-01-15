@@ -1,6 +1,19 @@
 # project
 
-store > reducers >containers > action creators
+store > reducers(old state + action => new state) >containers > action creators(function that sends action)
+
+think about strucutre of state, "everything you want to store
+
+
+Reducers: 
+
+Actions(type...info...):
+
+Actions Creators:
+
+Containers:
+
+
 
 Make a profile
   Sign up
